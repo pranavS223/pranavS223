@@ -1,6 +1,6 @@
 # Hi :wave:, I'm Pranav Somawanshi
 #### Cybersecurity Enthusiast | Computer Science Engineer
-email: psomawanshi155@gmail.com
+email: psomawanshi155@gmail.com <br>
 linkedin: https://www.linkedin.com/in/pranav-somawanshi-9838792b0/ 
 
 ## 🌐 Socials:
