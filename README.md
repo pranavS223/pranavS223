@@ -1,7 +1,5 @@
 # Hi :wave:, I'm Pranav Somawanshi
 #### Computer Science Engineer | Cybersecurity Enthusiast | Bug Bounty Hunter | Offensive Security Practitioner
-email: psomawanshi155@gmail.com <br>
-linkedin: https://www.linkedin.com/in/pranav-somawanshi-9838792b0/ 
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/iiiamRoot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-somawanshi-9838792b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psomawanshi155@gmail.com) 
