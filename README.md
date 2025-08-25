@@ -1,5 +1,5 @@
 # Hi :wave:, I'm Pranav Somawanshi
-#### Cybersecurity Enthusiast | Computer Science Engineer
+#### Computer Science Engineer | Cybersecurity Enthusiast | Bug Bounty Hunter | Offensive Security Practitioner
 email: psomawanshi155@gmail.com <br>
 linkedin: https://www.linkedin.com/in/pranav-somawanshi-9838792b0/ 
 
