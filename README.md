@@ -7,7 +7,8 @@
 
 # 🏅 Certifications:
 <a href="https://credentials.offsec.com/d36032cc-923f-4c59-a146-5583d6841581" target="_blank"><img src="images/oscp2.png" alt="OSCP+" width="120"></a>   <a href="https://credentials.offsec.com/dab0695d-abce-4e33-90a0-09f80e6b88c3" target="_blank"><img src="images/oscp.png" alt="OSCP" width="120"></a>    <a target="_blank">
-  <img src="images/htb.png" alt="htb" width="110" style="border-radius: 10px;">
+  <img src="images/htb.png" alt="htb" width="110"
+       style="border-radius: 10px; background-color: #000; padding: 5px;">
 </a>
 
 # 💻 Tech Stack:
